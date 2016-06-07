@@ -67,3 +67,6 @@ Host pine
 Which makes it possible to ssh into the pine by just typing:
 
 `ssh pine`
+
+###Cinder
+https://github.com/cinder/Cinder/wiki/Cinder-for-Linux-%7C-Ubuntu-15.X-on-x86_64
