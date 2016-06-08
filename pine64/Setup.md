@@ -70,3 +70,5 @@ Which makes it possible to ssh into the pine by just typing:
 
 ###Cinder
 https://github.com/cinder/Cinder/wiki/Cinder-for-Linux-%7C-Ubuntu-15.X-on-x86_64
+
+[Topic on getting it working with OpenGL 2.1](https://forum.libcinder.org/topic/glnext-es-3-angle)
