@@ -72,3 +72,12 @@ Which makes it possible to ssh into the pine by just typing:
 https://github.com/cinder/Cinder/wiki/Cinder-for-Linux-%7C-Ubuntu-15.X-on-x86_64
 
 [Topic on getting it working with OpenGL 2.1](https://forum.libcinder.org/topic/glnext-es-3-angle)
+
+`sudo apt-get install libgles2-mesa-dev`
+
+`mesa-utils-extra`
+
+`libegl1-mesa`
+
+Build cinder with es2 `./cibuild -es2`
+
